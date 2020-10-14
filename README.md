@@ -8,6 +8,9 @@ This repository contains a variety of data visualizations built using Power BI, 
 ## Global Temperature Anomalies
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Global%20Temperature%20Anomalies.png)
 <br><br><br><br>
+## Sound Wave Visualizer
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Sound%20Wave%20Analyzer.png)
+<br><br><br><br>
 ## Sources of Added Sugar in US Diet
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
 <br><br><br><br>
