@@ -11,6 +11,9 @@ This repository contains a variety of data visualizations built using Power BI, 
 ## Sound Wave Visualizer
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Sound%20Wave%20Analyzer.png)
 <br><br><br><br>
+## Covid 19 - USA vs. Canada
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/covid_19_usa_canada.png)
+<br><br><br><br>
 ## Sources of Added Sugar in US Diet
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
 <br><br><br><br>
@@ -19,3 +22,6 @@ This repository contains a variety of data visualizations built using Power BI, 
 <br><br><br><br>
 ## Florida Schools (K-12) Expenditure
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/FL%20K-12%20Expenditure.png)
+
+
+
