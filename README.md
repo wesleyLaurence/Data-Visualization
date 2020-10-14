@@ -8,5 +8,6 @@ This repository contains a variety of data visualizations built using Power BI, 
 <br>
 ## Global Temperature Anomalies
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Global%20Temperature%20Anomalies.png)
-
-
+<br>
+## Sources of Added Sugar in US Diet
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
