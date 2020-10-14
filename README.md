@@ -5,5 +5,5 @@ This repository contains a variety of data visualizations built using python's M
 <br><br>
 ![alt text](https://github.com/wesleyLaurence/Stock-Market-Analytics/blob/master/data/stock-prices.png?raw=true)
 <br><br>
-![alt text](https://github.com/wesleyLaurence/Stock-Market-Analytics/blob/master/data/stock-prices.png?raw=true)
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/facebook_social_network.png)
 
