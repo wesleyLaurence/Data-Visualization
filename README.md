@@ -7,9 +7,9 @@ This repository contains a variety of data visualizations built using Power BI, 
 ![alt text](https://github.com/wesleyLaurence/Stock-Market-Analytics/blob/master/data/stock-prices.png?raw=true)
 ## Global Temperature Anomalies
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Global%20Temperature%20Anomalies.png)
-<br><br><br>
+<br><br><br><br>
 ## Sources of Added Sugar in US Diet
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
-<br><br><br>
+<br><br><br><br>
 ## Microsoft Apps Released, by Category
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Microsoft%20Top%20App%20Categories.png)
