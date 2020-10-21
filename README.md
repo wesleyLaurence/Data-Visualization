@@ -20,14 +20,14 @@ This repository contains a variety of data visualizations built using Power BI, 
 ## Sound Wave Visualizer
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Sound%20Wave%20Analyzer.png)
 <br><br><br><br>
-## Sources of Added Sugar in US Diet
-![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
-<br><br><br><br>
 ## Iris Flower Pairplot
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Pairplot.png)
 <br><br><br><br>
 ## Microsoft Apps Released, by Category
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Microsoft%20Top%20App%20Categories.png)
+<br><br><br><br>
+## Sources of Added Sugar in US Diet
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
 <br><br><br><br>
 ## Florida Schools (K-12) Expenditure
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/FL%20K-12%20Expenditure.png)
