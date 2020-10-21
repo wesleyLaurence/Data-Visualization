@@ -2,12 +2,14 @@
 ### By Wesley Laurence
 This repository contains a variety of data visualizations built using Power BI, Tableau and Python (Matplotlib, Seaborn and NetworkX). Below, you can see the visuals produced and you can access the code in the scripts and notebook folder.
 <br><br>
-## Covid-19 Dashboard (Power BI)
-![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
-<br><br><br>
 ## Covid-19 Dashboard (Tableau)
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Tableau%20Dashboard.png)
 <br><br><br>
+## Covid-19 Dashboard (Power BI)
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
+<br><br><br>
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/covid_19_usa_canada.png)
+<br><br><br><br>
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/facebook-graph-resized.png)
 <br><br><br>
 ## Live Stock Prices
@@ -17,9 +19,6 @@ This repository contains a variety of data visualizations built using Power BI, 
 <br><br><br><br>
 ## Sound Wave Visualizer
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Sound%20Wave%20Analyzer.png)
-<br><br><br><br>
-## Covid 19 - USA vs. Canada
-![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/covid_19_usa_canada.png)
 <br><br><br><br>
 ## Sources of Added Sugar in US Diet
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/sources-of-add-sugars-us-population.png)
