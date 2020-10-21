@@ -6,7 +6,7 @@ This repository contains a variety of data visualizations built using Power BI, 
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
 <br><br><br>
 ## Covid-19 Dashboard (Tableau)
-![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Tableau%20Dashboard.png)
 <br><br><br>
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/facebook-graph-resized.png)
 <br><br><br>
