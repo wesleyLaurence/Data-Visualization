@@ -2,7 +2,10 @@
 ### By Wesley Laurence
 This repository contains a variety of data visualizations built using Power BI, Tableau and Python (Matplotlib, Seaborn and NetworkX). Below, you can see the visuals produced and you can access the code in the scripts and notebook folder.
 <br><br>
-## Covid-19 Dashboard
+## Covid-19 Dashboard (Power BI)
+![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
+<br><br><br>
+## Covid-19 Dashboard (Tableau)
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/Covid%20Dashboard.png)
 <br><br><br>
 ![alt text](https://github.com/wesleyLaurence/Data-Visualization/blob/main/images/facebook-graph-resized.png)
